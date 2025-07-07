@@ -1,5 +1,6 @@
 # Challenge_telecomx
 Analisis descriptivo de Telecom X
+
 Desafios:
 
 - Detectar los factores que llevan a la perdida de clientes ya que la tasa de cancelaciones.
