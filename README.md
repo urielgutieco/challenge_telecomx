@@ -4,4 +4,4 @@ Analisis descriptivo de Telecom X
 
 Ejecutar sistema
 
-```npm install react
+```npm install react```
