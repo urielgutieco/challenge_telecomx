@@ -68,6 +68,8 @@ Charges.Total: total gastado por el cliente
 Ejecutar sistema.
 
 ```npm install react```
+
+
 Informe Final
 
 🔹 Introducción Este informe presenta el análisis del proyecto de Telecom X, una empresa que enfrenta una elevada tasa de cancelaciones de clientes. El objetivo fue identificar los factores que influyen en la evasión, generar información para diseñar modelos predictivos y proponer estrategias que fortalezcan la retención.
